@@ -1239,6 +1239,7 @@ h6 {
   }
 
   .feedback {
+    padding: 7.1875rem 0rem 6.1875rem 0rem;
     background: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(56.5%), color-stop(43.5%, #6257FE));
     background: -o-linear-gradient(top, #fff, 56.5%, #6257FE 43.5%);
     background: linear-gradient(to bottom, #fff, 56.5%, #6257FE 43.5%);
