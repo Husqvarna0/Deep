@@ -1597,3 +1597,19 @@ h6 {
     color: #fff;
   }
 }
+
+@media (max-width: 767px){
+	.form-feedback__name{
+		width: 100%;
+	}
+	.form-feedback__mail{
+		width: 100%;
+	}
+	.form-feedback__subject{
+
+width: 100%;
+	}
+	  .form-feedback__textarea{
+		width: 100%;
+	  }
+}
